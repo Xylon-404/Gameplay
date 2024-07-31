@@ -31,6 +31,4 @@ python Games.py
 ![logo](https://github.com/Xylon-404/PIC/blob/main/Screenshot_20240731-134405.png)
 
 
-
-
-<ing align="right" alt="Coding" width="400" src="https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif">
+![logo](https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif)
