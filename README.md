@@ -1,6 +1,6 @@
 # Gameplay
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20GAMES&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLOB!&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20GAMES&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
 
 ## Requirements - 
 - Stable Internet Connection
@@ -11,7 +11,9 @@
 - No Root
 - No Termux Knowlegde
 
-<ing align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<ing align="right" alt="Coding" width="400" src="https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif">
+
 
 #### INSTALL TOOL ON TERMUX
 ```python
