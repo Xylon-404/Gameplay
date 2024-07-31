@@ -1,5 +1,4 @@
 # Gameplay
-# Gameplay
 
 ## Requirements - 
 - Stable Internet Connection
@@ -10,7 +9,7 @@
 - No Root
 - No Termux Knowlegde
 
-![logo](https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif)
+<ing align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 #### INSTALL TOOL ON TERMUX
 ```python
