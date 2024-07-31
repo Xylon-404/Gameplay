@@ -10,7 +10,7 @@
 - No Root
 - No Termux Knowlegde
 
-<p align="center"><img src="https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif"></p>
+![logo](https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif)
 
 #### INSTALL TOOL ON TERMUX
 ```python
